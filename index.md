@@ -4,7 +4,7 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name:name: "赛伦斯's Blog <sup><Badge type='tip' text='分享技术，感悟人生' class='small'/></sup>"
+  name: "赛伦斯's Blog <sup><Badge type='tip' text='分享技术，感悟人生' class='small'/></sup>"
   tagline: "愿做人间逍遥客，从此江湖无故人 ：）"
   image:
     src: /background.png
