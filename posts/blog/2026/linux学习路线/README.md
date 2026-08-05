@@ -1,8 +1,8 @@
 \---
 
-title: "Linux学习路线"
+title: Linux学习路线
 
-description: "从基础命令、系统配置到服务器运维的Linux学习路线。"
+description: 从基础命令、系统配置到服务器运维的Linux学习路线
 
 date: 2026-08-05 18:02:00
 

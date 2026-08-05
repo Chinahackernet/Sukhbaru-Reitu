@@ -1,8 +1,8 @@
 \---
 
-title: "Linux成神之路：人生是踏上了就回不了头的路"
+title: Linux成神之路：人生是踏上了就回不了头的路
 
-description: "记录Linux技术学习、成长与IT人的思考。"
+description: 记录Linux技术学习、成长与IT人的思考。
 
 date: 2026-08-05 18:03:00
 
