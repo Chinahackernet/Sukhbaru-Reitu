@@ -65,7 +65,7 @@ export default defineConfig({
       level: 'deep'
     },
     editLink: {
-      pattern: 'https://github.com/yqchilde/MyNewBlog/edit/main/:path',
+      pattern: 'https://wzd85.com',
       text: '不妥之处，敬请雅正'
     },
     lastUpdated: {
@@ -85,7 +85,7 @@ export default defineConfig({
       options: algolia,
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yqchilde/yqchilde.github.io' }
+      { icon: 'github', link: 'https://wzd85.com' }
     ],
     footer: {
       copyright: 'Copyright © 2019-2025 赛伦斯\'s Blog | 由 CC BY-NC 4.0 强力驱动 | <a href="https://beian.miit.gov.cn" target="_blank" rel="nofollow noopener" style="text-decoration: none;">辽ICP备2023006457号</a> | <img src="/gongan.png" style="width: 12px; height: 12px; display: inline-block;"> <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=21011302000307" rel="noreferrer" target="_blank" style="text-decoration: none;">辽公安备21011302000307号</a>'
@@ -120,6 +120,6 @@ export default defineConfig({
   ],
 
   sitemap: {
-    hostname: 'https://yqqy.top',
+    hostname: 'https://wzd85.com',
   },
 })
