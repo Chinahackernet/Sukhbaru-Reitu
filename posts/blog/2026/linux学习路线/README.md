@@ -1,24 +1,11 @@
-\---
-
-title: Linux学习路线
-
-description: 从基础命令、系统配置到服务器运维的Linux学习路线
-
+---
+title: "Linux学习路线"
+description: "从基础命令、系统配置到服务器运维的 Linux 学习路线。"
 date: 2026-08-05 18:02:00
+tags: ["Linux", "运维", "学习路线"]
+---
 
-tags:
-
-&#x20; - Linux
-
-&#x20; - 运维
-
-&#x20; - 学习路线
-
-\---
-
-
-
-\#  Linux学习路线
+# Linux学习路线
 
 
 
@@ -197,4 +184,3 @@ Linux基础：包括对Linux整体的理解/使用和基本命令;
 
 
 5、 运维架构师(主要需要广度，差不多5年左右以上经验，可以担当此职位)成为一名合格的Linux运维工程师必备的技术点掌握 Iptables 防火墙体系，实现防火墙实现数据包过滤和转发；掌握用户权限安全控制 Sudo 体系与配置；掌握 DNS 服务的原理、部署、安装和企业级应用；实现文件共享服务 NFS、Vsftpd、Samba 配置和应用；实现 Jumpserver 堡垒机 安装、配置、使用和运维体系融合；brctl 命令创建管理虚拟网桥；Ip Netns 创建管理虚拟路由；常见的网络客户端工具 Ping/Lftp/Ftp/Lftpget/Wget；利用 Rsync 和 Inotify 实现多台机器数据分发和配置同步；Jumpserver 跳板机基本功能应用，认证、授权、审计；https 概念及对应的模块 mod\_ssl 应用配置；运维必备 Web 服务开源解决⽅案 Nginx，全面讲解 Nginx 程序架构；Nginx 内部框架、模块功能、事务处理机制、安装⽅法、CPU 亲缘优化、配置⽂件；SQL 语句增删改查、常⽤命令使⽤、⽤户授权、字符集修改、表、索引、库管理等；对⽐介绍图形化管理软件，如 PhpMyAdmin、SQLyog、Navicat 等Keepalived 工作方式，Keepalived 核心组件、报警机制、切换机制、心跳信息传输等；Centos7 上实现 LVS 集群配置、服务管理、调度算法修改；全面熟悉 Ansible 用法、以及安装方法、配置文件详解、模块说明、基于私钥认证、批量操作等；Redis 扩展方式对比介绍，Redis Cluster 的基础应用；Vmware Esxi 创建 Linux 及 Windows 虚拟机，并实现虚拟机跨宿主机迁移；Docker 镜像、仓库管理、启动⽅法、数据卷使⽤、备份恢复，网络模型、容器间依赖关系、容器资源限制、Docker 的监控；
-
