@@ -92,7 +92,7 @@ export default defineConfig({
     },
     // @ts-ignore
     articleMetadataConfig: {
-      author: 'YY', // 文章全局默认作者名称
+      author: 'Silence', // 文章全局默认作者名称
       authorLink: '/about', // 点击作者名时默认跳转的链接
     },
     // 自定义扩展: 文章版权配置
