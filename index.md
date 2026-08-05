@@ -4,8 +4,8 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: "YY's Blog"
-  tagline: 闲记，杂记，好记性不如烂键盘
+  name: "赛伦斯's Blog"
+  tagline: 愿做人间逍遥客 从此江湖无故人
   image:
     src: /background.png
     alt: background
@@ -19,10 +19,10 @@ hero:
 
 features:
   - icon: 📖
-    title: 后端笔记
-    details: 整理后端常用知识点<small>（面试八股文）</small><br />不妥之处，敬请雅正
+    title: 运维笔记
+    details: 整理运维常用知识点<small>  </small><br />
     link: /review
-    linkText: 后端常用知识
+    linkText: 运维常用知识
   - icon: 💡
     title: Workflow
     details: 在工作中用到的一切<small>（常用库/工具/奇淫技巧等）</small><br />提高工作效率
@@ -30,7 +30,7 @@ features:
     linkText: 常用工具库
   - icon: 🧰
     title: 提效工具
-    details: 工欲善其事，必先利其器<br />记录开发和日常使用中所用到的软件、插件、扩展等
+    details: 工欲善其事，必先利其器<br />记录运维日常使用中所用到的软件、插件、扩展等
     link: /efficiency/mac
     linkText: 提效工具
 ---
