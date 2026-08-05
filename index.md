@@ -5,7 +5,7 @@ layoutClass: 'm-home-layout'
 
 hero:
   name: "赛伦斯's Blog"
-  tagline: 愿做人间逍遥客 从此江湖无故人
+  tagline: 愿做人间逍遥客 从此江湖无故人 ：）
   image:
     src: /background.png
     alt: background
@@ -25,7 +25,7 @@ features:
     linkText: 运维常用知识
   - icon: 💡
     title: Workflow
-    details: 在工作中用到的一切<small>（常用库/工具/奇淫技巧等）</small><br />提高工作效率
+    details: 在运维工作中用到的一切<small>（常用库/工具/奇淫技巧等）</small><br />提高工作效率
     link: /workflow/style-guide
     linkText: 常用工具库
   - icon: 🧰

@@ -11,7 +11,7 @@ export const nav: DefaultTheme.NavItem[] = [
         activeMatch: '^/blog',
     },
     {
-        text: "后端笔记",
+        text: "运维笔记",
         activeMatch: '^/review',
         items: [
             { text: "Golang篇", link: "/review/golang/map" },

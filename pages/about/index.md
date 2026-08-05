@@ -9,28 +9,18 @@ aside: false
 
 # 博主介绍
 
-欢迎来到我的博客，我叫YY <sup><Badge type="tip" text="yqchilde" class="small"/></sup>
+欢迎来到我的博客，我叫赛伦斯 <sup><Badge type="tip" text="Silence" class="small"/></sup>
 
-我是一名98年软件工程师，主要涉足后端Golang开发，目前工作在济南，工作5年。
+是一名80后 网络工程师，主要从事网络安全、渗透测试、一二线运维以及线上运维等相关工作。
 
-初中就进入了编程的世界，搞过易语言(中文PC语言)，写过E4A(中文Android语言)，大学学了PHP，后来自学了Golang，现在会写写 Golang+Python+Js。
+这个博客主要用于记录我在工作与学习中的技术实践，包括网络运维、安全攻防、故障排查和经验总结。 同时，也会分享一些日常折腾中遇到的问题与解决方案。
 
-除了这里，你还可以在[Github](https://github.com/yqchilde)上找到我。
+技术之路漫长，唯有保持好奇、持续学习、不断实践。
 
-## Hey 👋
+感谢你的到访，希望这里的内容能够对你有所帮助。
 
-```go
-func main() {
-    fmt.Println("👋 Hey! Nice to meet you!")
-}
-```
+除了这里，你还可以在[Telegram](https://t.me/onion_0x0000001)上找到我。
 
-## 写过的项目
-
-* [CheckInAssistant](https://github.com/yqchilde/CheckInAssistant) 学生时期搞得，签到APP <Badge type="tip" text="Golang + UniAPP" />
-* [JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) 京东批量退出店铺会员脚本，撸JD羊毛时玩的 <Badge type="tip" text="Python" />
-* [Rebirth](https://github.com/yqchilde/rebirth) 一款WordPress主题，移植过来的 <Badge type="tip" text="PHP" />
-* [WxBot](https://github.com/yqchilde/wxbot) 微信机器人，插件式设计 <Badge type="tip" text="Golang" />
 
 ## 声明
 

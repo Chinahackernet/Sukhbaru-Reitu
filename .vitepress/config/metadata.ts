@@ -1,6 +1,6 @@
 export const metaData = {
     lang: 'zh-CN',
     locale: 'zh_CN',
-    title: 'YY\'s Blog',
-    description: '程序员YY,yqchilde,程序员,Gopher,热爱技术,中度强迫症,熬夜达人',
+    title: 'Silence's Blog',
+    description: '赛伦斯,Silence,网络渗透,Gopher,热爱技术,中度强迫症,熬夜达人',
 }
