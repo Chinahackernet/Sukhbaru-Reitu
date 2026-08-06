@@ -6,7 +6,6 @@
   .container {
     max-width: var(--vp-layout-max-width) !important;
   }
-
   .content-container,
   .content {
     max-width: 100% !important;
@@ -18,17 +17,15 @@
     max-width: 224px;
   }
 
-  .content .copyright {
-    display: none;
-  }
-
-  /* tip */
-  .tip {
+  /* custom-block */
+  .custom-block {
     .custom-block-title {
-      display: none;
+      font-size: var(--vp-custom-block-font-size);
     }
-
-    p {
+    ul {
+      margin: 8px 0;
+    }
+    li {
       margin: 0;
     }
   }
