@@ -1,11 +1,12 @@
 ---
 title: Feeds-Sub
-outline: false
+layoutClass: m-feeds-sub
 showArticleMetadata: false
 editLink: false
 showComment: false
-aside: false
-layout: page
+# layout: page
 ---
+
+<style src="./style.scss"></style>
 
 <ClientOnly><FeedsSub /></ClientOnly>
