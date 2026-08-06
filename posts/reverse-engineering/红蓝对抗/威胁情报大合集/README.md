@@ -1,9 +1,10 @@
 ---
-sort:7
+sort: 7
 date: "2026-08-19 08:12:08"
-tags: ["逆向笔记"]
+tags:
+  - 逆向笔记
 isOriginal: false
-author: 'a545618990'
+author: "a545618990"
 ---
 
 # 威胁情报大合集

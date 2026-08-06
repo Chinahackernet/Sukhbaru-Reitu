@@ -1,7 +1,9 @@
 import fs from 'fs';
 import Parser from 'rss-parser';
 
-let parser = new Parser();
+let parser = new Parser({
+    timeout: 10000 // RSS请求最多等待10秒
+});
 
 let feeds = [
     "https://weekly.tw93.fun/rss.xml",

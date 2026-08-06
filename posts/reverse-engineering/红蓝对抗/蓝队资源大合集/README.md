@@ -1,9 +1,10 @@
 ---
-sort:6
+sort: 6
 date: "2026-08-19 08:12:08"
-tags: ["逆向笔记"]
+tags:
+  - 逆向笔记
 isOriginal: false
-author: 'a545618990'
+author: "a545618990"
 ---
 
 # 攻防对抗 · 蓝队清单，中文版
