@@ -1,6 +1,6 @@
 ---
 sort:6
-title: "Awesome Cybersecurity Blue Team - CN"
+title: "Awesome Cybersecurity Blue Team - CN"，
 description: "本文来自互联网，本文仅作学习分享"
 date: 2026-08-19 08:12:08
 tags: ["逆向笔记"]
