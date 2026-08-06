@@ -7,31 +7,7 @@ tags: ["UniAPP"]
 
 # 威胁狩猎大合集
 
-## 目录
 
-- [Awesome Threat Detection and Hunting](https://blue.y1ng.org/0x2_threat_hunting/#awesome-threat-detection-and-hunting)
-  - [目录](https://blue.y1ng.org/0x2_threat_hunting/#_1)
-  - [工具](https://blue.y1ng.org/0x2_threat_hunting/#_2)
-    - [告警引擎](https://blue.y1ng.org/0x2_threat_hunting/#_3)
-    - [端点监控](https://blue.y1ng.org/0x2_threat_hunting/#_4)
-    - [网络监控](https://blue.y1ng.org/0x2_threat_hunting/#_5)
-      - [指纹工具](https://blue.y1ng.org/0x2_threat_hunting/#_6)
-  - [数据集](https://blue.y1ng.org/0x2_threat_hunting/#_7)
-  - [资源](https://blue.y1ng.org/0x2_threat_hunting/#_8)
-    - [框架/模型](https://blue.y1ng.org/0x2_threat_hunting/#_9)
-    - [基于DNS数据的威胁狩猎](https://blue.y1ng.org/0x2_threat_hunting/#dns)
-    - [命令与控制（C2）相关](https://blue.y1ng.org/0x2_threat_hunting/#c2)
-    - [Osquery](https://blue.y1ng.org/0x2_threat_hunting/#osquery)
-    - [Windows](https://blue.y1ng.org/0x2_threat_hunting/#windows)
-      - [Sysmon](https://blue.y1ng.org/0x2_threat_hunting/#sysmon)
-      - [PowerShell](https://blue.y1ng.org/0x2_threat_hunting/#powershell)
-    - [指纹](https://blue.y1ng.org/0x2_threat_hunting/#_10)
-  - [威胁仿真](https://blue.y1ng.org/0x2_threat_hunting/#_11)
-    - [研究报告](https://blue.y1ng.org/0x2_threat_hunting/#_12)
-    - [相关博客](https://blue.y1ng.org/0x2_threat_hunting/#_13)
-    - [相关视频](https://blue.y1ng.org/0x2_threat_hunting/#_14)
-    - [相关课程](https://blue.y1ng.org/0x2_threat_hunting/#_15)
-  - [References](https://blue.y1ng.org/0x2_threat_hunting/#references)
 
 ## 工具
 

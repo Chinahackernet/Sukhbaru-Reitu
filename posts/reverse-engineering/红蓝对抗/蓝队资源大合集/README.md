@@ -26,24 +26,7 @@ tags: ["UniAPP"]
 > 你的贡献和建议十分重要，欢迎来参与(✿◕‿◕)。请查看[贡献准则](https://blue.y1ng.org/0x1_blue_team-resources/CONTRIBUTING.md)来获取更多的信息。本项目是在[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)许可下进行的。
 
 ## 🧾目录
-
-- [自动化工具](https://blue.y1ng.org/0x1_blue_team-resources/#_2)
-  - [零碎的](https://blue.y1ng.org/0x1_blue_team-resources/#_3)
-  - [代码库和绑定](https://blue.y1ng.org/0x1_blue_team-resources/#_4)
-  - [安全编排自动化与响应](https://blue.y1ng.org/0x1_blue_team-resources/#_5)
-- [云平台安全](https://blue.y1ng.org/0x1_blue_team-resources/#_6)
-- [通讯安全](https://blue.y1ng.org/0x1_blue_team-resources/#_7)
-- [DevSecOps](https://blue.y1ng.org/0x1_blue_team-resources/#devsecops)
-  - [应用或二进制加固](https://blue.y1ng.org/0x1_blue_team-resources/#_8)
-  - [模糊测试](https://blue.y1ng.org/0x1_blue_team-resources/#fuzzing)
-  - [策略执行](https://blue.y1ng.org/0x1_blue_team-resources/#_9)
-- [蜜罐](https://blue.y1ng.org/0x1_blue_team-resources/#_10)
-  - [Tarpits](https://blue.y1ng.org/0x1_blue_team-resources/#tarpits)
-- [主机防护工具](https://blue.y1ng.org/0x1_blue_team-resources/#_11)
-  - [沙箱](https://blue.y1ng.org/0x1_blue_team-resources/#_12)
-- [事件响应工具](https://blue.y1ng.org/0x1_blue_team-resources/#_13)
-  - [事件响应管理平台](https://blue.y1ng.org/0x1_blue_team-resources/#_14)
-  - [事件证据搜集（取证）](https://blue.y1ng.org/0x1_blue_team-resources/#_15)
+搜集（取证）](https://blue.y1ng.org/0x1_blue_team-resources/#_15)
 - [网络外围防御](https://blue.y1ng.org/0x1_blue_team-resources/#_16)
   - [防火墙设备或发行版](https://blue.y1ng.org/0x1_blue_team-resources/#_17)
   - [操作系统发行版](https://blue.y1ng.org/0x1_blue_team-resources/#_18)
