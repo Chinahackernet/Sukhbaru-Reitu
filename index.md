@@ -11,11 +11,11 @@ hero:
     alt: background
   actions:
     - theme: brand
-      text: 进入博客
+      text: 分享技术，感悟人生
       link: /blog
     - theme: alt
-      text: 进入仓库
-      link: https://github.com/yqchilde/MyNewBlog
+      text: 作战系统
+      link: https://donhackernet.pages.dev
 
 features:
   - icon: 📖
