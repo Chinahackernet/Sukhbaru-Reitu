@@ -11,7 +11,7 @@ hero:
     alt: background
   actions:
     - theme: brand
-      text: 分享技术，感悟人生
+      text: 用技术解决问题，用分享创造价值
       link: /blog
     - theme: alt
       text: 作战系统
