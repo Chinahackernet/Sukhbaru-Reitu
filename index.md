@@ -39,8 +39,8 @@ features:
     link: /softs/openai
     linkText: Obsidian账号注册机
   - icon: 🐞
-    title: Js逆向
-    details: 那些年我们踩过的坑<br />总有一些让你意想不到的问题
+    title: 攻防对抗
+    details: 那些年我们踩过的坑<br />威胁狩猎大合集
     link: /reverse-engineering/js
     linkText: JS逆向从入门到放弃。
   - icon: 💯
