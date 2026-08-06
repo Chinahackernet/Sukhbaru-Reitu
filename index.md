@@ -49,8 +49,6 @@ features:
     link: /about
 ---
 
-<ClientOnly><Heatmap /></ClientOnly>
-
 <div class="affiliation">
 
   <img src="/logo.png" alt="Logo" class="affiliation-logo" />
