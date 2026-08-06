@@ -23,14 +23,15 @@ export const nav: DefaultTheme.NavItem[] = [
         text: "攻防渗透",
         activeMatch: '^/reverse-engineering',
         items: [
-		
+            { text: "JS逆向从入门到放弃", link: "/reverse-engineering/js" },
         ]
     },
     {
         text: "AI相关",
         activeMatch: '^/softs',
         items: [
-
+            { text: "OpenAI", link: "/softs/openai" },
+            { text: "Obsidian", link: "/softs/obsidian" },
         ]
     },
     {
@@ -63,7 +64,8 @@ export const nav: DefaultTheme.NavItem[] = [
             {
                 text: '软件推荐与配置',
                 items: [
-   
+                    { text: 'Mac 平台', link: '/efficiency/mac/surge' },
+                    { text: 'Windows 平台', link: '/efficiency/windows/keymap' },
                 ]
             },
         ],
