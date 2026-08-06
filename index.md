@@ -51,6 +51,40 @@ features:
 
 <ClientOnly><Heatmap /></ClientOnly>
 
+<ClientOnly><Heatmap /></ClientOnly>
+
+<div class="affiliation">
+
+  <img src="/logo.png" alt="Logo" class="affiliation-logo" />
+
+  <div class="affiliation-content">
+
+    <h3>🛡️ 技术理念</h3>
+
+    <p>
+      本站隶属于中国黑客联盟、中国鹰眼网络安全技术组织，坚持合法、合规、负责任的网络安全研究与技术交流。
+    </p>
+
+    <p>
+      网络的路不止一条，所有的信息都应是免费的，打破权限，创造生活更美好，有信念、有梦想。
+    </p>
+
+    <p>
+      坚信只有今天付出了，才有机会看到明天的太阳。
+    </p>
+
+    <p>
+      极客是一种精神，它代表着热爱祖国、坚持正义、开拓进取；凡是热爱计算机技术、勇于探索的人，都可以称之为极客。
+    </p>
+
+    <p>
+      倡导绿色文明健康网络，守护国民信息安全。
+    </p>
+
+  </div>
+
+</div>
+
 <style>
 .m-home-layout .image-src:hover {
   transform: translate(-50%, -50%) rotate(666turn);
@@ -70,6 +104,93 @@ features:
 @media (min-width: 768px) {
   .VPHome {
     margin-bottom: 50px !important;
+  }
+}
+
+/* ===============================
+   首页底部：技术理念
+================================= */
+
+.affiliation {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 28px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 16px;
+  background: var(--vp-c-bg-soft);
+  box-shadow: var(--vp-shadow-1);
+}
+
+.affiliation-logo {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.affiliation-content {
+  flex: 1;
+  color: #d32f2f; /* 红色文字 */
+}
+
+.affiliation-content h3 {
+  margin: 0 0 18px;
+  color: #d32f2f;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.affiliation-content p {
+  margin: 10px 0;
+  line-height: 1.9;
+  color: #d32f2f;
+  font-size: 15px;
+}
+
+.affiliation-content strong {
+  color: #ff0000;
+}
+
+.affiliation-content a {
+  color: #ff4d4f;
+  text-decoration: none;
+}
+
+.affiliation-content a:hover {
+  text-decoration: underline;
+}
+
+/* 暗色模式 */
+.dark .affiliation {
+  background: rgba(255, 255, 255, 0.03);
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+/* 手机端 */
+@media (max-width: 768px) {
+  .affiliation {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    margin: 40px 16px;
+  }
+
+  .affiliation-logo {
+    width: 90px;
+    height: 90px;
+  }
+
+  .affiliation-content h3 {
+    font-size: 20px;
+  }
+
+  .affiliation-content p {
+    font-size: 14px;
+    line-height: 1.8;
   }
 }
 </style>
