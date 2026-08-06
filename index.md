@@ -42,7 +42,7 @@ features:
     title: Js逆向
     details: 那些年我们踩过的坑<br />总有一些让你意想不到的问题
     link: /reverse-engineering/js
-    linkText:JS逆向从入门到放弃。
+    linkText: JS逆向从入门到放弃。
   - icon: 💯
     title: 吾志所向，一往无前。
     details: '<small class="bottom-small">一个想躺平的运维</small>'
